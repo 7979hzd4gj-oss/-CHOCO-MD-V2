@@ -12,7 +12,7 @@ module.exports = {
     BOT_NAME: "ITACHI CHOCO MD",
     MODE: "public",
 
-    REPO: "https://github.com/JawadTechXD/KHAN-MD",
+    REPO: "https://github.com/7979hzd4gj-oss/-CHOCO-MD-V2",
     BAILEYS: "@whiskeysockets/baileys",
 
     OWNER_NUMBER: "224611257942",
@@ -55,17 +55,10 @@ module.exports = {
     RESPONDER: "true",
     ANTI_STATUT: "true",
 
-    DESCRIPTION: "ITACHI CHOCO MD BY CHOCO",
+    DESCRIPTION: "ITACHI CHOCO MD BY CHOCO - ULTIMATE BOT",
 
     PUBLIC_MODE: "true",
     ALWAYS_ONLINE: "true",
 
-    AUTO_STATUS_REACT: "true",
-    AUTO_STATUS_SEEN: "true",
-    AUTO_BIO: "true",
-
-    WELCOME: "true",
-    GOODBYE: "true",
-    ADMIN_ACTION: "true"
-};
+    AUTO_STATUS_REACT: "true
         

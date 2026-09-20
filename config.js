@@ -39,7 +39,7 @@ module.exports = {
     AUTO_TYPING: "true",
     MENTION_REPLY: "true",
 
-    MENU_IMAGE_URL: "https://files.catbox.moe/7zfdcq.jpg",
+    MENU_IMAGE_URL: "https://files.catbox.moe/ykfu82.png",
 
     ANTI_DELETE: "true",
     ANTI_CALL: "true",

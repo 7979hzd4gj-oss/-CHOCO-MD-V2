@@ -9,7 +9,7 @@ module.exports = {
     PREFIX: ".",
     EXTRA_PREFIX: "🍫",
     CHATBOT: "on",
-    BOT_NAME: "ITACHI CHOCO MD",
+    BOT_NAME: "CHOCO-MD V2",
     MODE: "public",
 
     REPO: "https://github.com/7979hzd4gj-oss/-CHOCO-MD-V2",
